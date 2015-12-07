@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spark-test">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../spark-test/out/artifacts/spark_test_jar/spark-test.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
